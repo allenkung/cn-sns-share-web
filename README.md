@@ -1,2 +1,2 @@
-# cn-sns-web-share-web
-Simple SNS share btn for China websites
+# CN SNS Share Web Btn
+Simple SNS share btns for CN websites
